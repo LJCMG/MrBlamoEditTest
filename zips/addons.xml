@@ -39,7 +39,7 @@ This is a Non-profit resource, organized solely for educational purposes which i
 	</extension>
 </addon>
 
-<addon id="plugin.video.placenta" version="1.2.0" name="LJCMG" provider-name="LJC Media Group">
+<addon id="plugin.video.placenta" version="1.2.0" name="LJCMG Placenta Test Name" provider-name="LJC Media Group">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.placenta" />
@@ -55,8 +55,8 @@ This is a Non-profit resource, organized solely for educational purposes which i
         <provides>audio</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Placenta</summary>
-		<description>Covenant Fork from Echo/Colossus era with Team Afterbirth's updates and new code.</description>
+		<summary lang="en">LJCMG Plecenta Test Summary</summary>
+		<description>This is the placenta test by Luke for Kodi Discription</description>
         <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.
 The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.
 This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.
